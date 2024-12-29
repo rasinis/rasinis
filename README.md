@@ -14,8 +14,8 @@
 | **Project**       | **Description**                                                                 | **Tech Stack**                      |
 |--------------------|---------------------------------------------------------------------------------|-------------------------------------|
 | **Spicy Bowl**     | A food delivery app featuring real-time order tracking and user-friendly design.| Flutter, Firebase, Node.js          |
-| **Fusion Flavour Express** | A responsive website for restaurant management with modern UI.               | React, Firebase, MongoDB            |
-| **VisioSense**     | IoT-based smart sunglasses for enhanced mobility and safety.                    | Arduino, Angular, Firebase          |
+| **Fusion Flavour Express** | A responsive website for restaurant management with modern UI.               | HTML, CSS, JS            |
+| **VisioSense**     | IoT-based smart sunglasses for enhanced mobility and safety.                    | Arduino, Flutter, Firebase, YOLOv8         |
 
 ---
 
