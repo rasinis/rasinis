@@ -4,8 +4,8 @@
 ---
 
 ## 👩‍💻 About Me
-- 🔧 **Current Project**: [Spicy Bowl](#) – A food delivery app with real-time order tracking and user-friendly design.  
-- 📚 **Currently Learning**: Advanced Flutter animations, Angular, backend integration, and Selenium.  
+- 🔧 **Current Project**: [Dearo_Digital](#) – A Mobile App for Dearo Investment Limited.  
+- 📚 **Currently Learning**: Advanced Flutter animations, Laravel, backend integration, Selenium and MySql.  
 - 🌟 **Fun Fact**: I enjoy blending creativity with technology to design impactful solutions!  
 
 ---
@@ -13,7 +13,8 @@
 ## 🚀 Projects & Work
 | **Project**       | **Description**                                                                 | **Tech Stack**                      |
 |--------------------|---------------------------------------------------------------------------------|-------------------------------------|
-| **Spicy Bowl**     | A food delivery app featuring real-time order tracking and user-friendly design.| Flutter, Firebase, Node.js          |
+| **Dearo Digital**     | A Mobile app for Dearo Investment Limited.| Flutter, Laravel, MySql         |
+| **Spicy Bowl**     | A food delivery app featuring real-time order tracking and user-friendly design.| Flutter, Firebase,           |
 | **Fusion Flavour Express** | A responsive website for restaurant management with modern UI.               | HTML, CSS, JS            |
 | **VisioSense**     | IoT-based smart sunglasses for enhanced mobility and safety.                    | Arduino, Flutter, Firebase, YOLOv8         |
 
